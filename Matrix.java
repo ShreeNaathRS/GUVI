@@ -66,7 +66,7 @@ public class Matrix {
 	}
 
 	public static void main(String[] args) {
-		System.out.print("Enter the number of values :");
+		System.out.print("Enter the order of the square matrix :");
 		n = s.nextInt();
 		getUserInput();
 		findIndex();
